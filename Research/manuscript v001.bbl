@@ -1,10 +1,9 @@
 \begin{thebibliography}{1}
 
-\bibitem{arafah2019maldi}
-K.~Arafah, S.~N. Voisin, V.~Masson, C.~Alaux, Y.~Le~Conte, M.~Bocquet, and
-  P.~Bulet.
-\newblock Maldi--ms profiling to address honey bee health status under
-  bacterial challenge through computational modeling.
-\newblock {\em Proteomics}, 19(23):1900268, 2019.
+\bibitem{beed2020hybrid}
+{\sc Beed, R., Roy, A., Sarkar, S., and Bhattacharya, D.}
+\newblock A hybrid multi-objective tour route optimization algorithm based on
+  particle swarm optimization and artificial bee colony optimization.
+\newblock {\em Computational Intelligence\/} (2020).
 
 \end{thebibliography}
