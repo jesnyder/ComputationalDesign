@@ -6,4 +6,10 @@
   particle swarm optimization and artificial bee colony optimization.
 \newblock {\em Computational Intelligence\/} (2020).
 
+\bibitem{dunlap2016foraging}
+{\sc Dunlap, A.~S., Nielsen, M.~E., Dornhaus, A., and Papaj, D.~R.}
+\newblock Foraging bumble bees weigh the reliability of personal and social
+  information.
+\newblock {\em Current Biology 26}, 9 (2016), 1195--1199.
+
 \end{thebibliography}

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.31)  31 DEC 2020 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.31)  1 JAN 2021 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"manuscript v001.tex"
-(./manuscript v001.tex
+**"manuscript draft.tex"
+(./manuscript draft.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -28,8 +28,8 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count175
 \l__pdf_internal_box=\box45
 )
-(./manuscript v001.aux)
-\openout1 = `"manuscript v001.aux"'.
+No file "manuscript draft".aux.
+\openout1 = `"manuscript draft.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -51,33 +51,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
- (./manuscript v001.toc)
+No file "manuscript draft".toc.
 \tf@toc=\write3
-\openout3 = `"manuscript v001.toc"'.
+\openout3 = `"manuscript draft.toc"'.
 
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./manuscript v001.bbl) [2
-] (./manuscript v001.aux) ) 
+LaTeX Warning: Citation `dunlap2016foraging' on page 1 undefined on input line 
+25.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (0.43791pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10.95 Bumble bes (Bom-bus im-pa-tiens) de-cide which flower to a
+p-proach based
+ []
+
+
+LaTeX Warning: Citation `beed2020hybrid' on page 2 undefined on input line 48.
+
+[2]
+No file "manuscript draft".bbl.
+[3] (./manuscript draft.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 407 strings out of 481239
- 6805 string characters out of 5920376
+ 395 strings out of 481239
+ 6620 string characters out of 5920376
  241559 words of memory out of 5000000
- 15738 multiletter control sequences out of 15000+600000
- 537541 words of font info for 41 fonts, out of 8000000 for 9000
+ 15734 multiletter control sequences out of 15000+600000
+ 536894 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,21p,1456b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-csc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "manuscript v001.pdf" (2 pages, 92018 bytes).
+ 23i,6n,22p,1459b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "manuscript draft.pdf" (3 pages, 69551 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
