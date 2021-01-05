@@ -1,4 +1,5 @@
 \contentsline {section}{\numberline {1}Let's begin}{1}%
 \contentsline {section}{\numberline {2}How do computers design?}{1}%
 \contentsline {section}{\numberline {3}How do bees make decisions?}{2}%
-\contentsline {section}{\numberline {4}Counterculture ideas}{4}%
+\contentsline {section}{\numberline {4}Technical plan}{4}%
+\contentsline {section}{\numberline {5}Counterculture ideas}{5}%
