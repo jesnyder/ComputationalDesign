@@ -2,5 +2,6 @@
 \contentsline {section}{\numberline {2}How do computers design?}{2}%
 \contentsline {section}{\numberline {3}How do bees make decisions?}{2}%
 \contentsline {section}{\numberline {4}Optimizing design}{4}%
-\contentsline {section}{\numberline {5}Technical plan}{5}%
-\contentsline {section}{\numberline {6}Counterculture ideas}{5}%
+\contentsline {section}{\numberline {5}Creating Information}{5}%
+\contentsline {section}{\numberline {6}Technical plan}{5}%
+\contentsline {section}{\numberline {7}Counterculture ideas}{5}%

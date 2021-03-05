@@ -33,4 +33,10 @@
   information.
 \newblock {\em Current Biology 26}, 9 (2016), 1195--1199.
 
+\bibitem{yelmen2021creating}
+{\sc Yelmen, B., Decelle, A., Ongaro, L., Marnetto, D., Tallec, C., Montinaro,
+  F., Furtlehner, C., Pagani, L., and Jay, F.}
+\newblock Creating artificial human genomes using generative neural networks.
+\newblock {\em PLoS genetics 17}, 2 (2021), e1009303.
+
 \end{thebibliography}

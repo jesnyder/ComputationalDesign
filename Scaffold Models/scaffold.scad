@@ -33,8 +33,8 @@ module lattice_with_hole(){
     union(){ 
     rotate([90,0,0]) lattice("red");
     translate([0,0,d1]) rotate([90,0,90]) lattice("red");
-    //translate([d1,0,h1/2]) bioprint("green");
-    //translate([0,d1,d1+h1/2]) rotate([0,0,90]) bioprint("green"); 
+    translate([d1,0,h1/2]) bioprint("green");
+    translate([0,d1,d1+h1/2]) rotate([0,0,90]) bioprint("green"); 
         }
     
    cylinder(h=3*h1, d=d2, $fn=fn);
