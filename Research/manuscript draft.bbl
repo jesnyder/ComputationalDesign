@@ -33,6 +33,19 @@
   information.
 \newblock {\em Current Biology 26}, 9 (2016), 1195--1199.
 
+\bibitem{jiang2021generative}
+{\sc Jiang, L., Gu, X.~D., and Chen, S.}
+\newblock Generative design of bionic structures via concurrent multiscale
+  topology optimization and conformal geometry method.
+\newblock {\em Journal of Mechanical Design 143}, 1 (2021).
+
+\bibitem{li2021part}
+{\sc Li, X., Xie, C., and Sha, Z.}
+\newblock Part-aware product design agent using deep generative network and
+  local linear embedding.
+\newblock In {\em Proceedings of the 54th Hawaii International Conference on
+  System Sciences\/} (2021), p.~5250.
+
 \bibitem{yelmen2021creating}
 {\sc Yelmen, B., Decelle, A., Ongaro, L., Marnetto, D., Tallec, C., Montinaro,
   F., Furtlehner, C., Pagani, L., and Jay, F.}

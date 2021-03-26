@@ -1,7 +1,8 @@
 \contentsline {section}{\numberline {1}Let's begin}{1}%
 \contentsline {section}{\numberline {2}How do computers design?}{2}%
 \contentsline {section}{\numberline {3}How do bees make decisions?}{2}%
-\contentsline {section}{\numberline {4}Optimizing design}{4}%
-\contentsline {section}{\numberline {5}Creating Information}{5}%
-\contentsline {section}{\numberline {6}Technical plan}{5}%
-\contentsline {section}{\numberline {7}Counterculture ideas}{5}%
+\contentsline {section}{\numberline {4}Bionic Designs}{4}%
+\contentsline {section}{\numberline {5}Optimizing design}{4}%
+\contentsline {section}{\numberline {6}Creating Information}{5}%
+\contentsline {section}{\numberline {7}Technical plan}{6}%
+\contentsline {section}{\numberline {8}Counterculture ideas}{6}%
