@@ -1,9 +1,10 @@
-\contentsline {section}{\numberline {1}Let's begin}{1}{}%
+\contentsline {section}{\numberline {1}Let's begin}{2}{}%
 \contentsline {section}{\numberline {2}How do computers design?}{2}{}%
-\contentsline {section}{\numberline {3}How do bees make decisions?}{3}{}%
-\contentsline {section}{\numberline {4}Predictions. Accurate ones.}{4}{}%
-\contentsline {section}{\numberline {5}Bionic Designs}{4}{}%
-\contentsline {section}{\numberline {6}Optimizing design}{5}{}%
-\contentsline {section}{\numberline {7}Creating Information}{6}{}%
-\contentsline {section}{\numberline {8}Technical plan}{6}{}%
-\contentsline {section}{\numberline {9}Counterculture ideas}{6}{}%
+\contentsline {section}{\numberline {3}Microbes}{3}{}%
+\contentsline {section}{\numberline {4}How do bees make decisions?}{3}{}%
+\contentsline {section}{\numberline {5}Predictions. Accurate ones.}{4}{}%
+\contentsline {section}{\numberline {6}Bionic Designs}{5}{}%
+\contentsline {section}{\numberline {7}Optimizing design}{5}{}%
+\contentsline {section}{\numberline {8}Creating Information}{6}{}%
+\contentsline {section}{\numberline {9}Technical plan}{6}{}%
+\contentsline {section}{\numberline {10}Counterculture ideas}{7}{}%
